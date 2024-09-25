@@ -1,0 +1,725 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Police\\DelhiPolice\\EMalkhana\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|c:\\police\\delhipolice\\emalkhana\\emalkhana\\fir.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\fir.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\fir.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\fir.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\app_code\\mudhsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\app_code\\mudhsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\mud.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\mud.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\searchmud.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\searchmud.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\mud.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\mud.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\constants\\webconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\constants\\webconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\searchmud.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\searchmud.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\firsearch.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\firsearch.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\receiptsearch.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\receiptsearch.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\policestation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\policestation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\statuswise.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\statuswise.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\rcsearch.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\rcsearch.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\ordernotdestroyed.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\ordernotdestroyed.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\mudoutofstation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\mudoutofstation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\mudmovementwise.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\mudmovementwise.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\headwise.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\headwise.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\destroyedbetweendates.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\destroyedbetweendates.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\fontfamily.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\fontfamily.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\assets\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\assets\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\assets\\scss\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\assets\\scss\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\assets\\css\\animated.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\assets\\css\\animated.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\fsl.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\fsl.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\section.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\section.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\status.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\status.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\mudmovement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\mudmovement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\users.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\users.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\permission.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\permission.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\rolepermission.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\rolepermission.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\role.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\role.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\fsl.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\fsl.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\head.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\head.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\receiptsearch.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\receiptsearch.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\rcsearch.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\rcsearch.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\firsearch.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\firsearch.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\courtname.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\courtname.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\disposal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\disposal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|C:\\Police\\DelhiPolice\\EMalkhana\\emalkhana\\database\\emalkhana20240429.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{63895068-D9C6-49A1-8DE8-EB3474577DA6}|EMalkhana\\EMalkhana.csproj|solutionrelative:emalkhana\\database\\emalkhana20240429.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FIR.aspx",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\FIR.aspx",
+              "RelativeDocumentMoniker": "EMalkhana\\FIR.aspx",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\FIR.aspx",
+              "RelativeToolTip": "EMalkhana\\FIR.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-09T15:35:02.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Dashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Dashboard.aspx.cs",
+              "RelativeDocumentMoniker": "EMalkhana\\Dashboard.aspx.cs",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Dashboard.aspx.cs",
+              "RelativeToolTip": "EMalkhana\\Dashboard.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:36:37.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "fontfamily.css",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\fontfamily.css",
+              "RelativeDocumentMoniker": "EMalkhana\\fontfamily.css",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\fontfamily.css",
+              "RelativeToolTip": "EMalkhana\\fontfamily.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-11T06:33:45.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\assets\\css\\style.css",
+              "RelativeDocumentMoniker": "EMalkhana\\assets\\css\\style.css",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\assets\\css\\style.css",
+              "RelativeToolTip": "EMalkhana\\assets\\css\\style.css",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAuwJQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-11T06:33:28.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\assets\\scss\\style.css",
+              "RelativeDocumentMoniker": "EMalkhana\\assets\\scss\\style.css",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\assets\\scss\\style.css",
+              "RelativeToolTip": "EMalkhana\\assets\\scss\\style.css",
+              "ViewState": "AQIAAE8AAACAZmZmZmYrwFkAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-11T06:16:59.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "animated.css",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\assets\\css\\animated.css",
+              "RelativeDocumentMoniker": "EMalkhana\\assets\\css\\animated.css",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\assets\\css\\animated.css",
+              "RelativeToolTip": "EMalkhana\\assets\\css\\animated.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-11T06:06:44.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\assets\\css\\login.css",
+              "RelativeDocumentMoniker": "EMalkhana\\assets\\css\\login.css",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\assets\\css\\login.css",
+              "RelativeToolTip": "EMalkhana\\assets\\css\\login.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-11T06:01:26.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FIR.aspx.cs",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\FIR.aspx.cs",
+              "RelativeDocumentMoniker": "EMalkhana\\FIR.aspx.cs",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\FIR.aspx.cs",
+              "RelativeToolTip": "EMalkhana\\FIR.aspx.cs",
+              "ViewState": "AQIAAK4AAAAAqJmZmZnxv4YAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:35:11.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ReceiptSearch.aspx.cs",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\ReceiptSearch.aspx.cs",
+              "RelativeDocumentMoniker": "EMalkhana\\ReceiptSearch.aspx.cs",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\ReceiptSearch.aspx.cs",
+              "RelativeToolTip": "EMalkhana\\ReceiptSearch.aspx.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T17:26:11.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FirSearch.aspx",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\FirSearch.aspx",
+              "RelativeDocumentMoniker": "EMalkhana\\FirSearch.aspx",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\FirSearch.aspx",
+              "RelativeToolTip": "EMalkhana\\FirSearch.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-07T17:01:00.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReceiptSearch.aspx",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\ReceiptSearch.aspx",
+              "RelativeDocumentMoniker": "EMalkhana\\ReceiptSearch.aspx",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\ReceiptSearch.aspx",
+              "RelativeToolTip": "EMalkhana\\ReceiptSearch.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-07T17:25:54.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Master.Master",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Master.Master",
+              "RelativeDocumentMoniker": "EMalkhana\\Master.Master",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Master.Master",
+              "RelativeToolTip": "EMalkhana\\Master.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-05T18:21:19.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mud.aspx",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Mud.aspx",
+              "RelativeDocumentMoniker": "EMalkhana\\Mud.aspx",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Mud.aspx",
+              "RelativeToolTip": "EMalkhana\\Mud.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-23T07:23:08.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mud.aspx.cs",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Mud.aspx.cs",
+              "RelativeDocumentMoniker": "EMalkhana\\Mud.aspx.cs",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Mud.aspx.cs",
+              "RelativeToolTip": "EMalkhana\\Mud.aspx.cs",
+              "ViewState": "AQIAAOsBAAAAAAAAAAAhwPEBAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:03:38.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SearchMud.aspx",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\SearchMud.aspx",
+              "RelativeDocumentMoniker": "EMalkhana\\SearchMud.aspx",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\SearchMud.aspx",
+              "RelativeToolTip": "EMalkhana\\SearchMud.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-25T12:19:01.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SearchMud.aspx.cs",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\SearchMud.aspx.cs",
+              "RelativeDocumentMoniker": "EMalkhana\\SearchMud.aspx.cs",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\SearchMud.aspx.cs",
+              "RelativeToolTip": "EMalkhana\\SearchMud.aspx.cs",
+              "ViewState": "AQIAAFEAAAAAMzMzMzP7v1kAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T04:08:22.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FirSearch.aspx.cs",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\FirSearch.aspx.cs",
+              "RelativeDocumentMoniker": "EMalkhana\\FirSearch.aspx.cs",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\FirSearch.aspx.cs",
+              "RelativeToolTip": "EMalkhana\\FirSearch.aspx.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T17:01:23.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MudhSearch.cs",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\App_Code\\MudhSearch.cs",
+              "RelativeDocumentMoniker": "EMalkhana\\App_Code\\MudhSearch.cs",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\App_Code\\MudhSearch.cs",
+              "RelativeToolTip": "EMalkhana\\App_Code\\MudhSearch.cs",
+              "ViewState": "AQIAABgAAABAMzMzMzMbwB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T04:24:28.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FSL.aspx",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\FSL.aspx",
+              "RelativeDocumentMoniker": "EMalkhana\\FSL.aspx",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\FSL.aspx",
+              "RelativeToolTip": "EMalkhana\\FSL.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-08T04:44:47.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FSL.aspx.cs",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\FSL.aspx.cs",
+              "RelativeDocumentMoniker": "EMalkhana\\FSL.aspx.cs",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\FSL.aspx.cs",
+              "RelativeToolTip": "EMalkhana\\FSL.aspx.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwCYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T04:44:58.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RCSearch.aspx.cs",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\RCSearch.aspx.cs",
+              "RelativeDocumentMoniker": "EMalkhana\\RCSearch.aspx.cs",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\RCSearch.aspx.cs",
+              "RelativeToolTip": "EMalkhana\\RCSearch.aspx.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T04:34:43.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RCSearch.aspx",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\RCSearch.aspx",
+              "RelativeDocumentMoniker": "EMalkhana\\RCSearch.aspx",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\RCSearch.aspx",
+              "RelativeToolTip": "EMalkhana\\RCSearch.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-06T15:41:58.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Head.aspx",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Head.aspx",
+              "RelativeDocumentMoniker": "EMalkhana\\Head.aspx",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Head.aspx",
+              "RelativeToolTip": "EMalkhana\\Head.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-06T16:01:32.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Login.aspx",
+              "RelativeDocumentMoniker": "EMalkhana\\Login.aspx",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Login.aspx",
+              "RelativeToolTip": "EMalkhana\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-05T18:20:37.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CourtName.aspx",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\CourtName.aspx",
+              "RelativeDocumentMoniker": "EMalkhana\\CourtName.aspx",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\CourtName.aspx",
+              "RelativeToolTip": "EMalkhana\\CourtName.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-06T15:46:34.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Section.aspx",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Section.aspx",
+              "RelativeDocumentMoniker": "EMalkhana\\Section.aspx",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Section.aspx",
+              "RelativeToolTip": "EMalkhana\\Section.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-06T16:10:21.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Status.aspx",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Status.aspx",
+              "RelativeDocumentMoniker": "EMalkhana\\Status.aspx",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Status.aspx",
+              "RelativeToolTip": "EMalkhana\\Status.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-06T16:10:25.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Disposal.aspx",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Disposal.aspx",
+              "RelativeDocumentMoniker": "EMalkhana\\Disposal.aspx",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Disposal.aspx",
+              "RelativeToolTip": "EMalkhana\\Disposal.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-06T16:09:11.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderNotDestroyed.aspx",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\OrderNotDestroyed.aspx",
+              "RelativeDocumentMoniker": "EMalkhana\\OrderNotDestroyed.aspx",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\OrderNotDestroyed.aspx",
+              "RelativeToolTip": "EMalkhana\\OrderNotDestroyed.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-06T15:45:41.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MudOutOfStation.aspx",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\MudOutOfStation.aspx",
+              "RelativeDocumentMoniker": "EMalkhana\\MudOutOfStation.aspx",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\MudOutOfStation.aspx",
+              "RelativeToolTip": "EMalkhana\\MudOutOfStation.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-06T15:41:54.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MudMovementWise.aspx",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\MudMovementWise.aspx",
+              "RelativeDocumentMoniker": "EMalkhana\\MudMovementWise.aspx",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\MudMovementWise.aspx",
+              "RelativeToolTip": "EMalkhana\\MudMovementWise.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-06T15:41:50.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MudMovement.aspx",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\MudMovement.aspx",
+              "RelativeDocumentMoniker": "EMalkhana\\MudMovement.aspx",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\MudMovement.aspx",
+              "RelativeToolTip": "EMalkhana\\MudMovement.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-06T15:41:46.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "EMalkhana\\Dashboard.aspx",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Dashboard.aspx",
+              "RelativeToolTip": "EMalkhana\\Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-06T15:39:24.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StatusWise.aspx",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\StatusWise.aspx",
+              "RelativeDocumentMoniker": "EMalkhana\\StatusWise.aspx",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\StatusWise.aspx",
+              "RelativeToolTip": "EMalkhana\\StatusWise.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-06T16:10:28.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RolePermission.aspx",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\RolePermission.aspx",
+              "RelativeDocumentMoniker": "EMalkhana\\RolePermission.aspx",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\RolePermission.aspx",
+              "RelativeToolTip": "EMalkhana\\RolePermission.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-06T16:10:14.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Role.aspx",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Role.aspx",
+              "RelativeDocumentMoniker": "EMalkhana\\Role.aspx",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Role.aspx",
+              "RelativeToolTip": "EMalkhana\\Role.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-06T16:10:11.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PoliceStation.aspx",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\PoliceStation.aspx",
+              "RelativeDocumentMoniker": "EMalkhana\\PoliceStation.aspx",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\PoliceStation.aspx",
+              "RelativeToolTip": "EMalkhana\\PoliceStation.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-06T16:10:03.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Permission.aspx",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Permission.aspx",
+              "RelativeDocumentMoniker": "EMalkhana\\Permission.aspx",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Permission.aspx",
+              "RelativeToolTip": "EMalkhana\\Permission.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-06T16:10:00.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Users.aspx",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Users.aspx",
+              "RelativeDocumentMoniker": "EMalkhana\\Users.aspx",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Users.aspx",
+              "RelativeToolTip": "EMalkhana\\Users.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-22T17:44:51.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HeadWise.aspx",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\HeadWise.aspx",
+              "RelativeDocumentMoniker": "EMalkhana\\HeadWise.aspx",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\HeadWise.aspx",
+              "RelativeToolTip": "EMalkhana\\HeadWise.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-06T15:46:18.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DestroyedBetweenDates.aspx",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\DestroyedBetweenDates.aspx",
+              "RelativeDocumentMoniker": "EMalkhana\\DestroyedBetweenDates.aspx",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\DestroyedBetweenDates.aspx",
+              "RelativeToolTip": "EMalkhana\\DestroyedBetweenDates.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-06T15:46:13.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EMalkhana20240429.sql ",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Database\\EMalkhana20240429.sql",
+              "RelativeDocumentMoniker": "EMalkhana\\Database\\EMalkhana20240429.sql",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Database\\EMalkhana20240429.sql",
+              "RelativeToolTip": "EMalkhana\\Database\\EMalkhana20240429.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-03T17:55:28.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Web.config",
+              "RelativeDocumentMoniker": "EMalkhana\\Web.config",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Web.config",
+              "RelativeToolTip": "EMalkhana\\Web.config",
+              "ViewState": "AQIAABIAAABgZmZmZmYkwBMAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-29T17:12:41.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebConstants.cs",
+              "DocumentMoniker": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Constants\\WebConstants.cs",
+              "RelativeDocumentMoniker": "EMalkhana\\Constants\\WebConstants.cs",
+              "ToolTip": "C:\\Police\\DelhiPolice\\EMalkhana\\EMalkhana\\Constants\\WebConstants.cs",
+              "RelativeToolTip": "EMalkhana\\Constants\\WebConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T17:11:06.505Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
